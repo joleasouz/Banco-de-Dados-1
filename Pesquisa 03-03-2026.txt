@@ -1,0 +1,4 @@
+1 - O que é "Projeto de Banco de Dados"?
+R. Projeto de banco de dados é o processo de estruturação e organização do banco de dados. O projeto envolve a criação de tabelas e relacionamentos, garantindo a integridade e evitando possíveis anomalias.
+2 - O que é "Banco de Dados"?
+R. Um banco de dados é uma coleção organizada de informações ou dados estruturados, armazenados eletronicamente em um sistema de computador, permitindo fácil acesso, gerenciamento, atualização e exclusão de dados.
